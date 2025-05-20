@@ -1,3 +1,6 @@
+# Pipeline for Terraform AWS Deploy
+# This GitHub Actions workflow automates the deployment of Terraform configurations to AWS.
+
 name: 'Terraform AWS Deploy'
 
 on:
