@@ -21,8 +21,8 @@ jobs:
     defaults:
       run:
         shell: bash
-        working-directory: terraform/terraform-networking
-        # Set the working directory to the location of your Terraform files
+        # working-directory: terraform/terraform-networking
+        # # Set the working directory to the location of your Terraform files
 
     steps:
     - name: Checkout
